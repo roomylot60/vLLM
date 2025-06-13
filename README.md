@@ -1,6 +1,7 @@
 # vLLM
 
 ## Files
+```bash
 project-root/
 ├── app/
 │   ├── main.py
@@ -20,3 +21,4 @@ project-root/
 │       └── ...
 ├── docker-compose.yml
 └── requirements.txt
+```
